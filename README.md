@@ -1,0 +1,2 @@
+# StajTakipKanser
+Hatalı
